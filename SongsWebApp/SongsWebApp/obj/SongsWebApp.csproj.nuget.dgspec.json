@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj": {}
+    "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj": {
+    "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj",
         "projectName": "SongsWebApp.Core",
-        "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj",
-        "packagesPath": "C:\\Users\\Student8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Core\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Student8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj"
+              "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj"
               },
-              "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj": {
-                "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj"
+              "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj"
               }
             }
           }
@@ -47,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -84,21 +88,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj": {
+    "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj",
         "projectName": "SongsWebApp.DataAccess",
-        "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Student8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Student8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,15 +114,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj": {
-                "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj"
+              "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj"
               }
             }
           }
@@ -128,7 +135,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -165,21 +173,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj": {
+    "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj",
         "projectName": "SongsWebApp.Models",
-        "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj",
-        "packagesPath": "C:\\Users\\Student8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\SongsWebApp.Models.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Student8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,7 +199,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -205,7 +216,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -242,21 +254,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj": {
+    "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj",
         "projectName": "SongsWebApp",
-        "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj",
-        "packagesPath": "C:\\Users\\Student8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp\\SongsWebApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Student8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -264,18 +280,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj": {
-                "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj"
+              "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.Core\\SongsWebApp.Core.csproj"
               },
-              "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj"
+              "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\PPMG Nikola Obreshkov\\Stanislav-12th Grade\\Learning ASP.NET MVC\\SongsWebApp\\SongsWebApp.DataAccess\\SongsWebApp.DataAccess.csproj"
               }
             }
           }
@@ -289,7 +304,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -329,7 +345,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,3 +12,18 @@ C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\Son
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.pdb
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.genruntimeconfig.cache
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\ref\SongsWebApp.Models.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\bin\Debug\net8.0\SongsWebApp.Models.deps.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\bin\Debug\net8.0\SongsWebApp.Models.runtimeconfig.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\bin\Debug\net8.0\SongsWebApp.Models.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\bin\Debug\net8.0\SongsWebApp.Models.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.AssemblyInfo.cs
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.sourcelink.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\refint\SongsWebApp.Models.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\SongsWebApp.Models.genruntimeconfig.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Models\obj\Debug\net8.0\ref\SongsWebApp.Models.dll

@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using SongsWebApp.Core.Servicies.IServicies;
 using SongsWebApp.Models.Entities;
+using SongsWebApp.ViewModels;
 using System.Runtime.CompilerServices;
 
 namespace SongsWebApp.Controllers
@@ -8,10 +10,12 @@ namespace SongsWebApp.Controllers
     public class SongController : Controller
     {
         private readonly ISongService _songService;
+        private readonly ISongService _artistService;
 
-        public SongController(ISongService songService)
+        public SongController(ISongService songService, ISongService artistService)
         {
             this._songService = songService;
+            this._artistService = artistService;
         }
 
         [HttpGet]
@@ -22,8 +26,25 @@ namespace SongsWebApp.Controllers
         }
 
         [HttpGet]
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
+            var vm = new CreateSongViewModel
+            {
+                AvailableArtists = (await _artistService.GetAllAsync())
+                .Select(a => new SelectListItem
+                {
+                    Value = a.Id.ToString(),
+                    Text = a.Name
+                }).ToList(),
+
+                //AvailableAlbums = (await _albumService.GetAllAsync())
+                //.Select(a => new SelectListItem
+                //{
+                //    Value = a.Id.ToString(),
+                //    Text = a.Name
+                //}).ToList()
+            };
+
             return View();
         }
 

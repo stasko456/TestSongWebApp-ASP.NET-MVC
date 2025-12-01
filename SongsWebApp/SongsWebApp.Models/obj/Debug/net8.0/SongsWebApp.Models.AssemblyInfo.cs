@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SongsWebApp.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b689cf44fb41b267ee9c5b4524f38ff0d8010e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SongsWebApp.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SongsWebApp.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

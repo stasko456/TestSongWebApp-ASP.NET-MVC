@@ -17,3 +17,23 @@ C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\Son
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.DataAccess.pdb
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.Models.pdb
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWeb.2C622B60.Up2Date
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.Core.deps.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.Core.runtimeconfig.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.Core.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.Core.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.DataAccess.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.Models.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.DataAccess.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\bin\Debug\net8.0\SongsWebApp.Models.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.AssemblyInfo.cs
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.sourcelink.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWeb.2C622B60.Up2Date
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\refint\SongsWebApp.Core.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\SongsWebApp.Core.genruntimeconfig.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.Core\obj\Debug\net8.0\ref\SongsWebApp.Core.dll

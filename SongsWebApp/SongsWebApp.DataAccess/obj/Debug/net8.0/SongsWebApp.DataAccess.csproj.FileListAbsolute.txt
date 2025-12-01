@@ -15,3 +15,21 @@ C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\Son
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.pdb
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.genruntimeconfig.cache
 C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\ref\SongsWebApp.DataAccess.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.deps.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.runtimeconfig.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.Models.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.Models.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.AssemblyInfo.cs
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.sourcelink.json
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWeb.3CB0139D.Up2Date
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\refint\SongsWebApp.DataAccess.dll
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.pdb
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.genruntimeconfig.cache
+C:\Users\User\Documents\PPMG Nikola Obreshkov\Stanislav-12th Grade\Learning ASP.NET MVC\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\ref\SongsWebApp.DataAccess.dll

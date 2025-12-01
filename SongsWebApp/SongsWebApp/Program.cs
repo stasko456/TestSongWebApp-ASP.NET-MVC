@@ -18,7 +18,7 @@ namespace SongsWebApp
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<SongsWebAppContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlServer(builder.Configuration.GetConnectionString("HomeLaptopConnection")));
 
             builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             builder.Services.AddScoped<IArtistService, ArtistService>();
