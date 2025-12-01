@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|c:\\users\\student8\\documents\\stanislav arsenal\\12thgrade\\software engineering\\songswebapp\\songswebapp\\views\\song\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|solutionrelative:songswebapp\\views\\song\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882F0A9C-F039-4D94-BF41-57562E5AA812}|SongsWebApp.Models\\SongsWebApp.Models.csproj|c:\\users\\student8\\documents\\stanislav arsenal\\12thgrade\\software engineering\\songswebapp\\songswebapp.models\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F0A9C-F039-4D94-BF41-57562E5AA812}|SongsWebApp.Models\\SongsWebApp.Models.csproj|solutionrelative:songswebapp.models\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|c:\\users\\student8\\documents\\stanislav arsenal\\12thgrade\\software engineering\\songswebapp\\songswebapp\\views\\artist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|solutionrelative:songswebapp\\views\\artist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|c:\\users\\student8\\documents\\stanislav arsenal\\12thgrade\\software engineering\\songswebapp\\songswebapp\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|solutionrelative:songswebapp\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|c:\\users\\student8\\documents\\stanislav arsenal\\12thgrade\\software engineering\\songswebapp\\songswebapp\\views\\song\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E60E7D69-20F5-4684-B22D-7ABC0AD38E8A}|SongsWebApp\\SongsWebApp.csproj|solutionrelative:songswebapp\\views\\song\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Views\\Artist\\Create.cshtml",
+              "RelativeDocumentMoniker": "SongsWebApp\\Views\\Artist\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Views\\Artist\\Create.cshtml",
+              "RelativeToolTip": "SongsWebApp\\Views\\Artist\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T13:26:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Views\\Song\\Create.cshtml",
+              "RelativeDocumentMoniker": "SongsWebApp\\Views\\Song\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Views\\Song\\Create.cshtml",
+              "RelativeToolTip": "SongsWebApp\\Views\\Song\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T13:25:50.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\Entities\\Song.cs",
+              "RelativeDocumentMoniker": "SongsWebApp.Models\\Entities\\Song.cs",
+              "ToolTip": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp.Models\\Entities\\Song.cs",
+              "RelativeToolTip": "SongsWebApp.Models\\Entities\\Song.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:06:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Views\\Song\\Index.cshtml",
+              "RelativeDocumentMoniker": "SongsWebApp\\Views\\Song\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Views\\Song\\Index.cshtml",
+              "RelativeToolTip": "SongsWebApp\\Views\\Song\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T13:05:45.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongController.cs",
+              "DocumentMoniker": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Controllers\\SongController.cs",
+              "RelativeDocumentMoniker": "SongsWebApp\\Controllers\\SongController.cs",
+              "ToolTip": "C:\\Users\\Student8\\Documents\\stanislav arsenal\\12thGrade\\Software Engineering\\SongsWebApp\\SongsWebApp\\Controllers\\SongController.cs",
+              "RelativeToolTip": "SongsWebApp\\Controllers\\SongController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:56:03.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

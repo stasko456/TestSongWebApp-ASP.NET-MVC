@@ -1,0 +1,17 @@
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.deps.json
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.runtimeconfig.json
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.dll
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.DataAccess.pdb
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.Models.dll
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\bin\Debug\net8.0\SongsWebApp.Models.pdb
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.AssemblyInfo.cs
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWeb.3CB0139D.Up2Date
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.dll
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\refint\SongsWebApp.DataAccess.dll
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.pdb
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\SongsWebApp.DataAccess.genruntimeconfig.cache
+C:\Users\Student8\Documents\stanislav arsenal\12thGrade\Software Engineering\SongsWebApp\SongsWebApp.DataAccess\obj\Debug\net8.0\ref\SongsWebApp.DataAccess.dll

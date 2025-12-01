@@ -1,0 +1,27 @@
+﻿@model SongsWebApp.Models.Entities.Song
+
+<h2 class="accordion-header">Create Song:</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="Title" class="form-label">Title</label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="ReleaseDate" class="form-label">Release Date</label>
+        <input asp-for="ReleaseDate" class="form-control" />
+        <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Length" class="form-label">Song's Length</label>
+        <input asp-for="Length" class="form-control" />
+        <span asp-validation-for="Length" class="text-danger"></span>
+    </div>
+
+    
+
+    <button class="btn btn-primary btn-lg" type="submit">Submit</button>
+</form>

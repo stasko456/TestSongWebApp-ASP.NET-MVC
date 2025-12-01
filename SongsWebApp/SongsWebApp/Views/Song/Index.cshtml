@@ -1,0 +1,37 @@
+﻿@model IEnumerable<SongsWebApp.Models.Entities.Song>
+
+<h2 class="accordion-header mb-3">Songs:</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Release Date</th>
+            <th>Length</th>
+            <th>Album (if it is from album)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var song in Model)
+        {
+            <tr>
+                <td>@song.Title</td>
+                <td>@song.ReleaseDate</td>
+                <td>@song.Length</td>
+                @if (song.Album == null)
+                {
+                    <td>@song.Album.Title</td>
+                }
+                <td>
+                    <a asp-action="Edit" asp-route-id="@song.Id" class="btn btn-success btn-sm">Edit</a>
+                    <form asp-action="Delete" asp-route-id="@song.Id" method="post" style="display:inline">
+                        <button class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary btn-lg">Create song:</a>

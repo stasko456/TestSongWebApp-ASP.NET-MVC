@@ -1,0 +1,32 @@
+﻿@model IEnumerable<SongsWebApp.Models.Entities.Artist>
+
+<h2 class="accordion-header mb-3">Artists:</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Country of origin</th>
+            <th>Debut Year</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var artist in Model)
+        {
+            <tr>
+                <td>@artist.Name</td>
+                <td>@artist.CountryOfOrigin</td>
+                <td>@artist.DebutYear</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@artist.Id" class="btn btn-success btn-sm">Edit</a>
+                    <form asp-action="Delete" asp-route-id="@artist.Id" method="post" style="display:inline">
+                        <button class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary btn-lg">Create artist:</a>
